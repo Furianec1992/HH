@@ -1,0 +1,12 @@
+.buttons-bar {
+	position: absolute; 
+	right: 28px;
+	bottom: -60;
+}
+.mdl-layout__drawer-button {
+	padding-top: 10px;
+  height: 30px;
+}
+span .mdl-list__item-primary-content {
+	padding-left: 700px;
+}

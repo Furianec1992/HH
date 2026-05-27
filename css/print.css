@@ -1,0 +1,17 @@
+.mdl-data-table {
+  border-collapse: separate;
+  width: inherit;
+}
+
+.mdl-data-table th {
+	font-size: larger !important; 
+	max-width: 100% !important;
+}
+
+.mdl-textfield {
+	width: 1702px;
+}
+
+@page { 
+  size: landscape;
+}
